@@ -1,2 +1,2 @@
 # talky-wafflehacks
-A minimalistic video chat app
+A minimalistic video chat app that is simple to use
