@@ -5,5 +5,5 @@ Our goal was to connect everyone in the world. From little children to people wh
 **TO USE THE APP**
 
 You can run the app at: https://parkspace.netlify.app/<br />
-The video: <br />
+The video: https://youtu.be/79rnmJu4klA <br />
 Or if you want the long way around, clone this repo and paste in the node_modules folder you get when you start a new react app
