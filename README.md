@@ -4,6 +4,6 @@ Our goal was to connect everyone in the world. From little children to people wh
 
 **TO USE THE APP**
 
-You can run the app at: 
-The video:
+You can run the app at: <br />
+The video: <br />
 Or if you want the long way around, clone this repo and paste in the node_modules folder you get when you start a new react app
